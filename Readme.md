@@ -1,0 +1,1 @@
+This comprises of all the completed Assignments on my Javascript journey
