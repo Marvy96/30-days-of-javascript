@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.vscode"
+		},
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"ritwickdey.LiveServer"
+		]
+	},
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "30 days of java script"
+	}
+}
